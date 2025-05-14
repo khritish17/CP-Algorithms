@@ -3,6 +3,7 @@
 ##
 
 ## FENWICK TREE (Binary Indexed Tree)
+[Python File](https://github.com/khritish17/CP-Algorithms/blob/master/Finwick%20Tree%20(BIT)/finwick_tree.py) | [YouTube Tutorial]()
 ### Introduction
 
 To compute the sum of a subarray (range sum), we often use **Prefix Sum**. This approach precomputes the cumulative sum of the array in `O(n)` time, allowing for each range sum query to be answered in `O(1)`.
