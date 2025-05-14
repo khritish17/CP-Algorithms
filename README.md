@@ -1,4 +1,7 @@
 # List of CP Algorithms
+### Fenwick Tree (Binary Indexed Tree)
+##
+
 ## FENWICK TREE (Binary Indexed Tree)
 ### Introduction
 
